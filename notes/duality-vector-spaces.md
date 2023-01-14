@@ -227,14 +227,14 @@ The result is given in the
 following figure,
 
 <figure>
-<img src="/img/duality_vector_spaces/fig2.svg">
+<img src="/blog/img/duality_vector_spaces/fig2.svg">
 </figure>
 
 
 where one can see that $\Be_1\perp\Be^2$, $\Be^1\perp\Be_2$.
 
 <figure>
-<img src="/img/duality_vector_spaces/fig1.svg">
+<img src="/blog/img/duality_vector_spaces/fig1.svg">
   A body $\CB$ embedded in $\IR^2$ with curvilinear coordinates.
   Every point $\CP$ at $\BX$ has an associated two-dimensional vector space,
   called $\CB$'s tangent space at $\BX$, denoted $\tang_\BX\CB$. The basis

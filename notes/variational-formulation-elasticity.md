@@ -147,7 +147,7 @@ $$\begin{equation}
 \end{equation}$$
 
 <figure>
-<img src="/img/variational_formulation_elasticity/fig1.svg">
+<img src="/blog/img/variational_formulation_elasticity/fig1.svg">
 Commutative diagram for the pull-back and push-forward relationships of the Green-Lagrange and
 Almansi strain tensors.
 </figure>
@@ -253,14 +253,14 @@ $$\begin{equation}
 \end{equation}$$
 
 <figure>
-<img src="/img/variational_formulation_elasticity/fig2.svg">
+<img src="/blog/img/variational_formulation_elasticity/fig2.svg">
 Commutative diagram of the linearized solution procedure. Each
 iteration brings the current iterate $\bar{\Bvarphi}$ closer to the optimum
 value $\Bvarphi^\ast$.
 </figure>
 
 <figure>
-<img src="/img/variational_formulation_elasticity/fig3.svg">
+<img src="/blog/img/variational_formulation_elasticity/fig3.svg">
 Mappings between line elements belonging to the tangent spaces of
 the linearization.
 </figure>

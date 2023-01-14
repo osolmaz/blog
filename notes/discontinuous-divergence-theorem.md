@@ -31,7 +31,7 @@ creating a triangular mesh, and consider arbitrary partitionings of a domain.
 A domain $\Omega$ is partitioned into parts $P^i$, $i=1,\dots,n$ as follows:
 
 <figure>
-<img src="/img/discontinuous_divergence_theorem/fig1.svg" width="300px">
+<img src="/blog/img/discontinuous_divergence_theorem/fig1.svg" width="300px">
 </figure>
 
 $$\Omega=\bigcup_{i=1}^{n} P^i$$
@@ -71,7 +71,7 @@ does not have any exterior boundary, it is said to be an **internal**
 part.($P^1$, $P^2$).
 
 <figure>
-<img src="/img/discontinuous_divergence_theorem/fig2.svg" width="400px">
+<img src="/blog/img/discontinuous_divergence_theorem/fig2.svg" width="400px">
 </figure>
 
 
@@ -102,7 +102,7 @@ If $P^i$ and $P^j$ are not neighbors, we simply have $\Gamma^{ij}=\emptyset$.
 
 
 <figure>
-<img src="/img/discontinuous_divergence_theorem/fig3.svg" width="400px">
+<img src="/blog/img/discontinuous_divergence_theorem/fig3.svg" width="400px">
 </figure>
 
 
@@ -111,7 +111,7 @@ If $P^i$ and $P^j$ are not neighbors, we simply have $\Gamma^{ij}=\emptyset$.
 For opposing parts $P^i$ and $P^j$,
 
 <figure>
-<img src="/img/discontinuous_divergence_theorem/fig4.svg" width="300px">
+<img src="/blog/img/discontinuous_divergence_theorem/fig4.svg" width="300px">
 </figure>
 
 
@@ -224,7 +224,7 @@ plus
 the **integral of its jump over part interfaces** $\mathcal{I}$.
 
 <figure>
-<img src="/img/discontinuous_divergence_theorem/fig5.svg" width="300px">
+<img src="/blog/img/discontinuous_divergence_theorem/fig5.svg" width="300px">
 </figure>
 
 

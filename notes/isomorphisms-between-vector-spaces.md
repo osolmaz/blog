@@ -361,7 +361,7 @@ The commutative diagrams pertaining to these mappings
 can be found in the figure below
 
 <figure>
-<img src="/img/isomorphisms_between_vector_spaces/fig1.svg">
+<img src="/blog/img/isomorphisms_between_vector_spaces/fig1.svg">
 Commutative diagrams involving
 the linear mappings $\BP,\BQ,\BR,\BS$ and
 their dual $\BP^\ast,\BQ^\ast,\BR^\ast,\BS^\ast$
