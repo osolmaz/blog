@@ -5,40 +5,40 @@ title: Notes
 
 ## Physics
 
-[Variational Formulation of Elasticity](/notes/variational-formulation-elasticity)
+[Variational Formulation of Elasticity](/blog/notes/variational-formulation-elasticity)
 
-[Balance Laws](/notes/balance-laws)
+[Balance Laws](/blog/notes/balance-laws)
 
 ## Math and Geometry
 
-[Discontinuous Divergence Theorem](/notes/discontinuous-divergence-theorem)
+[Discontinuous Divergence Theorem](/blog/notes/discontinuous-divergence-theorem)
 
-[Metrics and Natural Isomorphisms](/notes/metrics-natural-isomorphisms)
+[Metrics and Natural Isomorphisms](/blog/notes/metrics-natural-isomorphisms)
 
-[Duality of Vector Spaces](/notes/duality-vector-spaces)
+[Duality of Vector Spaces](/blog/notes/duality-vector-spaces)
 
-[Isomorphisms in Linear Mappings between Vector Spaces](/notes/isomorphisms-between-vector-spaces)
+[Isomorphisms in Linear Mappings between Vector Spaces](/blog/notes/isomorphisms-between-vector-spaces)
 
-[Taylor and Volterra Series](/notes/taylor-volterra-series)
+[Taylor and Volterra Series](/blog/notes/taylor-volterra-series)
 
 ## Scientific Computing
 
-[Linear Finite Elements](/notes/linear-finite-elements)
+[Linear Finite Elements](/blog/notes/linear-finite-elements)
 
-[Nonlinear Finite Elements](/notes/nonlinear-finite-elements)
+[Nonlinear Finite Elements](/blog/notes/nonlinear-finite-elements)
 
-[Vectorial Finite Elements](/notes/vectorial-finite-elements)
+[Vectorial Finite Elements](/blog/notes/vectorial-finite-elements)
 
-[Coupled Finite Elements](/notes/coupled-finite-elements)
+[Coupled Finite Elements](/blog/notes/coupled-finite-elements)
 
-[Time Dependent Finite Elements](/notes/time-dependent-finite-elements)
+[Time Dependent Finite Elements](/blog/notes/time-dependent-finite-elements)
 
-[Reshaping Higher Order Linear Systems](/notes/reshaping-higher-order-systems)
+[Reshaping Higher Order Linear Systems](/blog/notes/reshaping-higher-order-systems)
 
-[Solving Constrained Linear Systems](/notes/constrained-linear-systems)
+[Solving Constrained Linear Systems](/blog/notes/constrained-linear-systems)
 
-[Disadvantages of Engineering Notation in Finite Elements](/notes/engineering-notation-disadvantages)
+[Disadvantages of Engineering Notation in Finite Elements](/blog/notes/engineering-notation-disadvantages)
 
-[Lumped L2 Projection](/notes/lumped-l2-projection)
+[Lumped L2 Projection](/blog/notes/lumped-l2-projection)
 
-[Simple recursive implementation of deCasteljau's algorithm for Bezier curves in Python](/notes/decasteljau-recursive)
+[Simple recursive implementation of deCasteljau's algorithm for Bezier curves in Python](/blog/notes/decasteljau-recursive)
