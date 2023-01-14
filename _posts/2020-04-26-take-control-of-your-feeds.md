@@ -2,7 +2,9 @@
 layout: page
 title:  "Take Control of Your Feeds"
 date: 2020-04-26
-comments: true
+permalink: take-control-of-your-feeds
+redirect_from:
+  - /thoughts/digital-hygiene-feeds/
 ---
 
 A digital feed is an online stream of content which gets updated as new content is pushed by the feed’s sources. Generally, content is created by users on the social media platform, to be consumed by their followers.
