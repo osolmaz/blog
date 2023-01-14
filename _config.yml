@@ -1,0 +1,32 @@
+# Site settings
+title: Overanalyzed
+author: Onur Solmaz
+# email:
+description: "A blog about software, machines and freedom."
+url: "https://osolmaz.github.io"
+baseurl: "/blog"
+github_username: osolmaz
+twitter_username: onusoz
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+theme: minima
+
+header_pages:
+  - about.md
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-redirect-from
+
+
+# configure kramdown
+kramdown:
+  parse_block_html: true
+
+highlighter: rouge
+
+
+excerpt_separator: <!--more-->
